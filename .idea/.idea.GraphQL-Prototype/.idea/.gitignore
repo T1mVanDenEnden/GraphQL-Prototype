@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.GraphQL-Prototype.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Avans\P2.4\VerdiepingICT\Prototype\GraphQL-Prototype\.idea\.idea.GraphQL-Prototype\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
